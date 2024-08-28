@@ -1,0 +1,24 @@
+Basic:
+
+1) Retrieve the total number of vehicles involved in accidents.
+2) Calculate the total number of fatalities in all accidents.
+3) Identify the least common accident type.
+4) Identify the least common light condition during accidents.
+5) List the top 5 least accident-prone locations.
+
+Intermediate:
+
+1) Determine the distribution of accidents by day of the week.
+2) Join tables to find the average number of injuries per accident.
+3) Group accidents by month and calculate the average number of accidents per month.
+4) Find the correlation between weather conditions and accident frequency.
+5) Identify the top 3 accident types with the highest number of injuries.
+
+Advanced:
+
+1) Calculate the percentage contribution of each light condition to the total number of accidents.
+2) Analyze trends in accident severity over different months.
+3) Determine the top 3 most frequent accident types for each day of the week.
+4) Analyze the relationship between road conditions and accident severity.
+5) Evaluate the impact of time of day on the severity of accidents.
+6) Assess the influence of driver demographics on accident frequency and severity.
