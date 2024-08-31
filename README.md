@@ -44,6 +44,7 @@ List the top 5 least accident-prone locations.
 
 🟡 Intermediate Tasks
 
+
 Determine the distribution of accidents by day of the week.
 Join tables to find the average number of injuries per accident.
 Group accidents by month and calculate the average number of accidents per month.
