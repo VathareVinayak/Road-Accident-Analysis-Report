@@ -30,10 +30,10 @@ To run the analysis on your local machine, follow these steps:
 
 
 
-# Execute the SQL scripts provided in the repository to perform the analysis.
+
+## Execute the SQL scripts provided in the repository to perform the analysis.
 ## 🔍 Analysis Overview
 🟢 Basic Tasks
-
 
 Retrieve the total number of vehicles involved in accidents.
 Calculate the total number of fatalities in all accidents.
@@ -41,16 +41,13 @@ Identify the least common accident type.
 Identify the least common light condition during accidents.
 List the top 5 least accident-prone locations.
 
-
 🟡 Intermediate Tasks
-
 
 Determine the distribution of accidents by day of the week.
 Join tables to find the average number of injuries per accident.
 Group accidents by month and calculate the average number of accidents per month.
 Find the correlation between weather conditions and accident frequency.
 Identify the top 3 accident types with the highest number of injuries.
-
 
 🔴 Advanced Tasks
 
