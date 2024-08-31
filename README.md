@@ -29,9 +29,6 @@ To run the analysis on your local machine, follow these steps:
 
 
 
-
-
-## Execute the SQL scripts provided in the repository to perform the analysis.
 ## 🔍 Analysis Overview
 🟢 Basic Tasks
 
