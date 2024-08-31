@@ -30,30 +30,31 @@ To run the analysis on your local machine, follow these steps:
 
 
 ## 🔍 Analysis Overview
-🟢 Basic Tasks
 
-Retrieve the total number of vehicles involved in accidents.
-Calculate the total number of fatalities in all accidents.
-Identify the least common accident type.
-Identify the least common light condition during accidents.
-List the top 5 least accident-prone locations.
+### 🟢 Basic Tasks
 
-🟡 Intermediate Tasks
+- **Retrieve the total number of vehicles involved in accidents.**
+- **Calculate the total number of fatalities in all accidents.**
+- **Identify the least common accident type.**
+- **Identify the least common light condition during accidents.**
+- **List the top 5 least accident-prone locations.**
 
-Determine the distribution of accidents by day of the week.
-Join tables to find the average number of injuries per accident.
-Group accidents by month and calculate the average number of accidents per month.
-Find the correlation between weather conditions and accident frequency.
-Identify the top 3 accident types with the highest number of injuries.
+### 🟡 Intermediate Tasks
 
-🔴 Advanced Tasks
+- **Determine the distribution of accidents by day of the week.**
+- **Join tables to find the average number of injuries per accident.**
+- **Group accidents by month and calculate the average number of accidents per month.**
+- **Find the correlation between weather conditions and accident frequency.**
+- **Identify the top 3 accident types with the highest number of injuries.**
 
-Calculate the percentage contribution of each light condition to the total number of accidents.
-Analyze trends in accident severity over different months.
-Determine the top 3 most frequent accident types for each day of the week.
-Analyze the relationship between road conditions and accident severity.
-Evaluate the impact of time of day on the severity of accidents.
-Assess the influence of driver demographics on accident frequency and severity.
+### 🔴 Advanced Tasks
+
+- **Calculate the percentage contribution of each light condition to the total number of accidents.**
+- **Analyze trends in accident severity over different months.**
+- **Determine the top 3 most frequent accident types for each day of the week.**
+- **Analyze the relationship between road conditions and accident severity.**
+- **Evaluate the impact of time of day on the severity of accidents.**
+- **Assess the influence of driver demographics on accident frequency and severity.**
 
 
 ## 📝 Conclusion
