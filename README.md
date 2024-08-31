@@ -59,10 +59,12 @@ Evaluate the impact of time of day on the severity of accidents.
 Assess the influence of driver demographics on accident frequency and severity.
 
 
-📝 Conclusion
+## 📝 Conclusion
+
 
 This analysis provides a detailed exploration of traffic accidents, highlighting critical areas such as accident severity, frequency, and contributing factors. By understanding these patterns, stakeholders can implement targeted strategies to improve road safety and reduce the occurrence of fatal accidents.
 
-🤝 Contributing
+## 🤝 Contributing
+
 
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
