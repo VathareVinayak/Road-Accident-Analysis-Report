@@ -22,6 +22,7 @@ To run the analysis on your local machine, follow these steps:
    ```bash
    git clone https://github.com/VathareVinayak/Traffic-Death-Analysis-SQL.git
 
+
 2.Ensure You Have a SQL Database Setup:
 
 1. Import the provided dataset into your SQL database.
