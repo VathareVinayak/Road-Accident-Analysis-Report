@@ -1,4 +1,4 @@
-![Traffic Accident Analysis](./images/road-accident-Articl-Thumbnail.jpg)
+![Traffic Accident Analysis](Indian Road Accidents - PNGs/road-accident-Articl-Thumbnail.jpg)
 
 
 # 🚦 Traffic Death Analysis using SQL
