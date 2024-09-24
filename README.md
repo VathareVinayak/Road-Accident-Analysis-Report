@@ -1,3 +1,5 @@
+![Traffic Accident Analysis](./road-accident-Articl-Thumbnail.jpg)
+
 # 🚦 Traffic Death Analysis using SQL
 
 
