@@ -1,4 +1,4 @@
-![Traffic Accident Analysis](road-accident-logo.jpg)
+![Traffic Accident Analysis](Road_Accident _Logo.jpg)
 
 # 🚦 Traffic Accident Analysis using SQL & Power BI
 
