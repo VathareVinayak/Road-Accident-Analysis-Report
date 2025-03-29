@@ -26,7 +26,7 @@ The dataset used for this analysis includes records of traffic accidents, detail
 
 ## 🛠️ Setup and Usage
 
-### SQL Analysis
+### 1. SQL Analysis
 
 To run the SQL-based analysis:
 1. **Clone the Repository**:
@@ -37,7 +37,7 @@ To run the SQL-based analysis:
    - Import the provided dataset into your SQL database.
    - Adjust the SQL queries to match your database schema if needed.
 
-### Power BI Dashboard
+### 2. Power BI Dashboard
 
 To use the Power BI dashboard:
 1. **Clone the repository**:
